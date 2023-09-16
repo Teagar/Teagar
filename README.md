@@ -1,4 +1,18 @@
-## Bem-vindo(a) ao meu Perfil 😁
+## About Me
+
+Hello! I'm Thiago Cerqueira, also known as Teagar, a programming enthusiast dedicated to learning and creating. Currently, I'm focused on honing my skills in various languages, including HTML, CSS, JavaScript, C#, and much more.
+
+### What you'll find in my repositories
+
+- **Web Projects**: Explore my projects in HTML, CSS, and JavaScript, where I apply my web development knowledge to create interactive and responsive websites.
+
+- **C# Development**: Diving deep into C#, I'm working on applications and programs that utilize this powerful language.
+
+- **Continuous Learning**: This is my space to share my progress, learn from fellow developers, and contribute to the open-source community.
+
+### Let's learn together
+
+I'm always on the lookout for challenges and opportunities to collaborate on interesting projects. If you share my enthusiasm for software development, feel free to get in touch. Together, we can learn and create amazing things!
 
  <div>
   <a href="https://github.com/Teagar">
