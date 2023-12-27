@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Thiago Cerqueira, also known as Teagar, a programming enthusiast dedicated to learning and creating. Currently, I'm focused on honing my skills in various languages, including HTML, CSS, JavaScript, C#, and much more.
+Hello! I'm Thiago Cerqueira, also known as Teagar, a programming enthusiast dedicated to learning and creating. Currently, I'm focused on honing my skills in various languages, including Java, Lua, JavaScript, C#, and much more.
 
 ### What you'll find in my repositories
 
