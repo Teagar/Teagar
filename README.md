@@ -30,6 +30,7 @@ I'm always on the lookout for challenges and opportunities to collaborate on int
   <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
+   <br/>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Teagar&label=Profile%20views&color=0e75b6&style=flat" alt="Teagar" /> </p>
 
 
