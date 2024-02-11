@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Thiago Cerqueira, also known as Teagar, and I'm currently focused on honing my skills in various languages, including Java, Lua, JavaScript, C#, and much more.<br>
+        I'm Thiago Cerqueira, also known as Teagar, and I'm currently focused on honing my skills in various languages.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
